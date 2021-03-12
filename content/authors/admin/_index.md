@@ -18,7 +18,7 @@ bio: My research interests include dark personality traits, cyber-psychology, an
 
 # Interests to show in About widget
 interests:
-- Dark dersonality traits
+- Dark personality traits
 - Cyber-psychology
 - Personality assessment
 
