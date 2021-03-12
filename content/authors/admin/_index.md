@@ -43,12 +43,26 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: ai
-  link: https://scholar.google.ca/citations?hl=en&user=8WIEGK0AAAAJ
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/erin-buckels-5737a437
+- icon: google-scholar  
+  icon_pack: ai
+  link: https://scholar.google.ca/citations?hl=en&user=8WIEGK0AAAAJ
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Erin_Buckels
+- icon: academia
+  icon_pack: ai
+  link: https://uwinnipeg.academia.edu/ErinBuckels
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-8782-3776
+- icon: osf
+  icon_pack: ai
+  link: osf.io/q8z9x
+
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
