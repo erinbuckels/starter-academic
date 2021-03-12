@@ -52,15 +52,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Erin_Buckels
-- icon: academia
-  icon_pack: ai
-  link: https://uwinnipeg.academia.edu/ErinBuckels
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0002-8782-3776
 - icon: osf
   icon_pack: ai
-  link: osf.io/q8z9x
+  link: https://osf.io/q8z9x
 
 
 
