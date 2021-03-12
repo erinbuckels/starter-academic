@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Erin Buckels, PhD
+title: Erin E. Buckels, PhD
 
 # Is this the primary user of the site?
 superuser: true
@@ -76,4 +76,4 @@ Erin Buckels is an Assistant Professor of Social-Personality Psychology. She lea
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
