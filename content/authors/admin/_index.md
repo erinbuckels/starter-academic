@@ -18,7 +18,7 @@ bio: My research interests include dark personality traits, cyber-psychology, an
 
 # Interests to show in About widget
 interests:
-- The 'Dark Tetrad' of personality (sadism, psychopathy, narcissism, and Machiavellianism)
+- The 'Dark Tetrad' of personality
 - Cyber-psychology
 - Personality assessment
 
