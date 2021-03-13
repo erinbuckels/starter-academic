@@ -30,4 +30,4 @@ image:
   preview_only: false
 date: 2014-09-01T00:00:00Z
 ---
-Buckels, E. E., Trapnell, P. D., & Paulhus, D. L. (2014). Trolls just want to have fun. *Personality and Individual Differences*, *67*, 97–102. <https://doi.org/10.1016/j.paid.2014.01.016>
+**Citation:** Buckels, E. E., Trapnell, P. D., & Paulhus, D. L. (2014). Trolls just want to have fun. *Personality and Individual Differences*, *67*, 97–102. <https://doi.org/10.1016/j.paid.2014.01.016>
