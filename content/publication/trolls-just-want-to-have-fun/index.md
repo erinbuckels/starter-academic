@@ -6,7 +6,7 @@ authors:
   - admin
   - Paul D. Trapnell
   - "& Delroy L. Paulhus"
-doi: 10.1016/j.paid.2014.01.016
+doi: ""
 publication: "*Personality and Individual Differences*"
 publication_short: ""
 abstract: >
