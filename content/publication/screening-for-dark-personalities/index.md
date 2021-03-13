@@ -3,7 +3,10 @@ title: "Screening for Dark Personalities: The Short Dark Tetrad (SD4)"
 publication_types:
   - "2"
 authors:
+  - Delroy L. Paulhus
   - admin
+  - Paul D. Trapnell
+  - & Daniel N. Jones
 publication: "*European Journal of Psychological Assessment*"
 abstract: Consensus is emerging that the constellation of dark personalities
   should include the sadistic personality. To build a four-factor measure, we
