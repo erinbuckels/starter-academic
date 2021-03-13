@@ -64,7 +64,7 @@ social:
 # and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: media/Erin_Buckels_CV.pdf
+   link: uploads/Erin_Buckels_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -77,4 +77,4 @@ Erin Buckels is an Assistant Professor of Social-Personality Psychology. She lea
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download {{< staticref "media/Erin_Buckels_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/Erin_Buckels_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
