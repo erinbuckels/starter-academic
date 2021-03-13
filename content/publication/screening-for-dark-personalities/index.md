@@ -6,7 +6,7 @@ authors:
   - Delroy L. Paulhus
   - admin
   - Paul D. Trapnell
-  - & Daniel N. Jones
+  - Daniel N. Jones
 publication: "*European Journal of Psychological Assessment*"
 abstract: Consensus is emerging that the constellation of dark personalities
   should include the sadistic personality. To build a four-factor measure, we
@@ -33,7 +33,7 @@ tags:
 projects:
   - Dark Tetrad
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2020-07-27T00:00:00.000Z
