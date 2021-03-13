@@ -4,6 +4,8 @@ publication_types:
   - "2"
 authors:
   - Admin
+  - Paul D. Trapnell
+  - Delroy L. Paulhus
 doi: 10.1016/j.paid.2014.01.016
 abstract: >
   In two online studies (total N = 1215), respondents completed personality
