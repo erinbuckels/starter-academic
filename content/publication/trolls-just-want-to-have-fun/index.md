@@ -7,7 +7,8 @@ authors:
   - Paul D. Trapnell
   - "& Delroy L. Paulhus"
 doi: 10.1016/j.paid.2014.01.016
-publication: "*Personality and Individual Differences, 67*"
+publication: "*Personality and Individual Differences, 67*, 97-102.
+  https://doi.org/10.1016/j.paid.2014.01.016"
 publication_short: ""
 abstract: >
   In two online studies (total N = 1215), respondents completed personality
