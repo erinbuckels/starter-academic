@@ -1,6 +1,5 @@
 ---
-title: "Screening for Dark Personalities: "
-subtitle: The Short Dark Tetrad (SD4)
+title: "Screening for Dark Personalities: The Short Dark Tetrad (SD4)"
 publication_types:
   - "2"
 authors:
