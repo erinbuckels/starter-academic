@@ -14,13 +14,7 @@ subtitle:
 
 content:
   # Automatically link email and phone or display as text?
-email: e.buckels@uwinnipeg.ca
-phone: (204) 988-7536
-address: 
-Department of Psychology, University of Winnipeg
-515 Portage Avenue
-Winnipeg, Manitoba
-R3N 1H7 Canada
+  autolink: true
   
   # Email form provider
   form:
