@@ -73,6 +73,6 @@ email: ""
 highlight_name: false
 ---
 
-Erin Buckels is an Assistant Professor of Psychology. As the director of the **Dark Personality Research Lab** at the University of Winnipeg, Dr. Buckels' studies the dispositional and situational predictors of antisocial behavior using both survey and experimental methods. Much of her research has focused on the so-called 'Dark Tetrad' of personality: subclinical sadism, psychopathy, narcissism, and Machiavellianism.
+Erin Buckels is an Assistant Professor of Psychology. As the director of the **Dark Personality Research Lab** at the University of Winnipeg, Dr. Buckels investigates the dispositional and situational predictors of antisocial behavior using both survey and experimental methods. Much of her research has focused on the so-called 'Dark Tetrad' of personality: subclinical sadism, psychopathy, narcissism, and Machiavellianism.
 
 {{< icon name="download" pack="fas" >}} Download {{< staticref "media/Erin_Buckels_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
