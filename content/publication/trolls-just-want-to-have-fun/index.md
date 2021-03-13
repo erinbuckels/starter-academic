@@ -3,10 +3,10 @@ title: Trolls just want to have fun
 publication_types:
   - "2"
 authors:
-  - Admin
+  - admin
   - Paul D. Trapnell
   - Delroy L. Paulhus
-doi: 10.1016/j.paid.2014.01.016
+doi: "10.1016/j.paid.2014.01.016"
 abstract: >
   In two online studies (total N = 1215), respondents completed personality
   inventories and a survey of their Internet commenting styles. Overall, strong
@@ -26,4 +26,4 @@ image:
   filename: trollface.jpg
   focal_point: Smart
   preview_only: false
-date: 2014-09
+date: "2014-09-01T00:00:00Z"
