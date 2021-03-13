@@ -1,5 +1,6 @@
 ---
-title: Screening for Dark Personalities
+title: "Screening for Dark Personalities: "
+subtitle: The Short Dark Tetrad (SD4)
 publication_types:
   - "2"
 authors:
@@ -35,3 +36,6 @@ image:
   preview_only: false
 date: 2021-03-13T07:12:21.916Z
 ---
+**Citation:**
+
+Paulhus, D. L., Buckels, E. E., Trapnell, P. D., & Jones, D. N. (2020). Screening for dark personalities: The Short Dark Tetrad (SD4). *European Journal of Psychological Assessment.* <https://doi.org/10.1027/1015-5759/a000602>
