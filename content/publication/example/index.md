@@ -11,7 +11,7 @@ abstract: "In two online studies (total N = 1215), respondents completed
   relationship was specific to trolling behavior. Enjoyment of other online
   activities, such as chatting and debating, was unrelated to sadism. Thus
   cyber-trolling appears to be an Internet manifestation of everyday sadism."
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "2"
@@ -25,13 +25,12 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: An example conference paper
-subtitle: Trolls just want to have fun
+title: Trolls just want to have fun
+subtitle: ""
 doi: 10.1016/j.paid.2014.01.016
 featured: true
 tags: []
-projects:
-  - example
+projects: []
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
@@ -42,7 +41,6 @@ publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
 url_code: ""
 ---
-
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
