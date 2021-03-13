@@ -75,6 +75,4 @@ highlight_name: false
 
 Erin Buckels is an Assistant Professor of Social-Personality Psychology. She is the director of the **Dark Personality Research Lab** at the University of Winnipeg.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
 {{< icon name="download" pack="fas" >}} Download {{< staticref "media/Erin_Buckels_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
