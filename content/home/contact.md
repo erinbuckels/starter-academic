@@ -17,11 +17,10 @@ content:
 email: e.buckels@uwinnipeg.ca
 phone: (204) 988-7536
 address: 
-  street: Department of Psychology, University of Winnipeg, 515 Portage Avenue
-  city: Winnipeg
-  region: Manitoba
-  postcode: R3N 1H7
-  country: Canada
+Department of Psychology, University of Winnipeg
+515 Portage Avenue
+Winnipeg, Manitoba
+R3N 1H7 Canada
   
   # Email form provider
   form:
