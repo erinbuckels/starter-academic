@@ -24,5 +24,4 @@ image:
   filename: trollface.jpg
   focal_point: Smart
   preview_only: false
-date: 2021-03-13T06:15:12.218Z
----
+date: 2014-09
