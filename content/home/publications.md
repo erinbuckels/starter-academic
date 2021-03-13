@@ -32,5 +32,5 @@ design:
 ---
 
 {{% callout note %}}
-[Filter and search publications](./publication/)
+[Filter and search](./publication/)
 {{% /callout %}}
