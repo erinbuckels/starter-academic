@@ -27,10 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Dark Tetrad
+    tag: Dark Tetrad
+  - name: Trolling
+    tag: Trolling
+  - name: Parental Care and Tenderness
+    tag: PCAT
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
