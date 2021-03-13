@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Erin E. Buckels, PhD
+title: Erin E. Buckels
 
 # Is this the primary user of the site?
 superuser: true
