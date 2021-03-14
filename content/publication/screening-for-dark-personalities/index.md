@@ -41,7 +41,7 @@ date: 2020-07-27T00:00:00.000Z
 # links:
 # - name: ""
 #   url: ""
-url_pdf: /EJPA.2020.on.SD4.pdf
+url_pdf: static/uploads/EJPA.2020.on.SD4.pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
