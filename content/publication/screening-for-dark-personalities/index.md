@@ -41,4 +41,4 @@ date: 2020-07-27T00:00:00.000Z
 ---
 **Citation:**
 
-> Paulhus, D. L., Buckels, E. E., Trapnell, P. D., & Jones, D. N. (2020). Screening for dark personalities: The Short Dark Tetrad (SD4). \*European Journal of Psychological Assessment.\* <https://doi.org/10.1027/1015-5759/a000602>
+Paulhus, D. L., Buckels, E. E., Trapnell, P. D., & Jones, D. N. (2020). Screening for dark personalities: The Short Dark Tetrad (SD4). \*European Journal of Psychological Assessment.\* <https://doi.org/10.1027/1015-5759/a000602>
