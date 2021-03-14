@@ -27,6 +27,7 @@ abstract: Consensus is emerging that the constellation of dark personalities
   uncovered a novel link between sadism and sexuality, but no association with
   maladjustment.
 draft: false
+url_pdf: uploads/EJPA.2020.on.SD4.pdf
 featured: true
 tags:
   - Dark Tetrad
@@ -37,20 +38,7 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2020-07-27T00:00:00.000Z
-
-# links:
-# - name: ""
-#   url: ""
-url_pdf: uploads/EJPA.2020.on.SD4.pdf
-# url_code: ''
-# url_dataset: ''
-# url_poster: ''
-# url_project: ''
-# url_slides: ''
-# url_source: ''
-# url_video: ''
-
 ---
 **Citation:**
 
-Paulhus, D. L., Buckels, E. E., Trapnell, P. D., & Jones, D. N. (2020). Screening for dark personalities: The Short Dark Tetrad (SD4). *European Journal of Psychological Assessment.* <https://doi.org/10.1027/1015-5759/a000602>
+> Paulhus, D. L., Buckels, E. E., Trapnell, P. D., & Jones, D. N. (2020). Screening for dark personalities: The Short Dark Tetrad (SD4). \*European Journal of Psychological Assessment.\* <https://doi.org/10.1027/1015-5759/a000602>
