@@ -7,8 +7,7 @@ authors:
   - admin
   - Paul D. Trapnell
   - Daniel N. Jones
-publication: "*European Journal of Psychological Assessment*.
-  https://doi.org/10.1027/1015-5759/a000602"
+
 abstract: Consensus is emerging that the constellation of dark personalities
   should include the sadistic personality. To build a four-factor measure, we
   modified and extended the Short Dark Triad (SD3) measure to include sadism. A
