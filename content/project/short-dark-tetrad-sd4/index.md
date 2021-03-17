@@ -15,7 +15,9 @@ image:
 | Strongly Disagree | Disagree | Neutral | Agree | Strongly Agree |
 | :----: | :----: | :----: | :----: | :----: |
 | 1 | 2 | 3 | 4 | 5 |
+
 </div>
+
 **Identity 1: “Crafty”**
 1. It’s not wise to let people know your secrets.
 2. Whatever it takes, you must get the important people on your side.
