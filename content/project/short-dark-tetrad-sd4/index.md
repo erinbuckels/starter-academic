@@ -3,7 +3,6 @@ title: Short Dark Tetrad (SD4)
 date: 2021-03-17T02:51:59.870Z
 draft: false
 featured: false
-external_link: http://test
 image:
   filename: ""
   focal_point: Smart
