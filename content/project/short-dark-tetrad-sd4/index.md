@@ -1,5 +1,6 @@
 ---
 title: Short Dark Tetrad (SD4)
+tag: Dark Tetrad
 draft: false
 featured: true
 image:
