@@ -8,7 +8,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Rate your agreement with each statement using the below 5-point scale:
+**Instructions:** Rate your agreement with each statement using the below 5-point scale:
 
 | Strongly Disagree | Disagree | Neutral | Agree | Strongly Agree |
 | :----: | :----: | :----: | :----: | :----: |
