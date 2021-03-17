@@ -57,9 +57,9 @@ Rate your agreement with each statement using the below 5-point scale:
 
 **Scoring:** 
 
-Machiavellianism: mean of 1-7
-Narcissism: mean of 8-14
-Psychopathy: mean of 15-21
-Sadism: mean of 22-28
+Machiavellianism: mean of 7 "Crafty” items
+Narcissism: mean of 7 "Special" items
+Psychopathy: mean of 7 "Wild" items
+Sadism: mean of 7 "Mean" items
 
 **Citation:** Paulhus, D. L., Buckels, E. E., Trapnell, P. D., & Jones, D. N. (2020). Screening for dark personalities: The Short Dark Tetrad (SD4). *European Journal of Psychological Assessment*. <https://doi.org/10.1027/1015-5759/a000602>
