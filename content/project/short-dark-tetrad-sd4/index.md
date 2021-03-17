@@ -8,7 +8,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-**Instructions:** Rate your agreement with each statement using the below 5-point scale:
+**Instructions:** Rate your agreement with each statement using a 5-point scale:
 
 | Strongly Disagree | Disagree | Neutral | Agree | Strongly Agree |
 | :----: | :----: | :----: | :----: | :----: |
@@ -35,11 +35,12 @@ image:
 **Identity 3: “Wild”**
 1. People often say I’m out of control.
 2. I tend to fight against authorities and their rules.
-3. I’ve been in more fights than most people of my age and gender.
-4. I tend to dive in, then ask questions later.
-5. I’ve been in trouble with the law.
-6. I sometimes get into dangerous situations.
-7. People who mess with me always regret it.
+3. I’ve been in more fights than most people of my age and 
+gender.
+5. I tend to dive in, then ask questions later.
+6. I’ve been in trouble with the law.
+7. I sometimes get into dangerous situations.
+8. People who mess with me always regret it.
 
 **Identity 4: “Mean”**
 1. Watching a fist-fight excites me.
