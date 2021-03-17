@@ -28,7 +28,7 @@ content:
   - name: All
     tag: '*'
   - name: Dark Personality
-    tag: DarkTetrad
+    tag: Dark Personality
   - name: Trolling
     tag: Trolling
   - name: Parental Care and Tenderness
