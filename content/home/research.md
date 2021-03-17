@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Dark Tetrad
-    tag: Dark Tetrad
+  - name: Dark Personality
+    tag: DarkTetrad
   - name: Trolling
     tag: Trolling
   - name: Parental Care and Tenderness
