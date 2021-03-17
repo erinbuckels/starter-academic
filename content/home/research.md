@@ -27,7 +27,7 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Dark Personality
+  - name: Dark Tetrad
     tag: Dark Tetrad
   - name: Trolling
     tag: Trolling
@@ -43,7 +43,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 1
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
