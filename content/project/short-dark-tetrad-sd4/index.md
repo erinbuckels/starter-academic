@@ -13,10 +13,8 @@ image:
 **Citation:** Paulhus, D. L., Buckels, E. E., Trapnell, P. D., & Jones, D. N. (2020). Screening for dark personalities: The Short Dark Tetrad (SD4). *European Journal of Psychological Assessment*. <https://doi.org/10.1027/1015-5759/a000602>
 
 
-
-|                   |          |         |       |                |
-| ----------------- | -------- | ------- | ----- | -------------- |
 | Strongly Disagree | Disagree | Neutral | Agree | Strongly Agree |
+| ----------------- | -------- | ------- | ----- | -------------- |
 | 1                 | 2        | 3       | 4     | 5              |
 
 Rate your agreement with each statement using the above 5-point scale:
