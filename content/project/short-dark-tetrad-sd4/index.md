@@ -10,8 +10,7 @@ image:
 ---
 **Description:** A 28-item questionnaire to assess the Dark Tetrad of Personality: Subclinical psychopathy, sadism, narcissism, and Machiavellianism.
 
-**Citation:** Paulhus, D. L., Buckels, E. E., Trapnell, P. D., & Jones, D. N. (2020). Screening for dark personalities: The Short Dark Tetrad (SD4). *European Journal of Psychological Assessment*. <https://doi.org/10.1027/1015-5759/a000602>
-
+**FOUR IDENTITIES QUESTIONNAIRE**
 
 | Strongly Disagree | Disagree | Neutral | Agree | Strongly Agree |
 | ----------------- | -------- | ------- | ----- | -------------- |
@@ -63,3 +62,5 @@ Machiavellianism: mean of 1-7
 Narcissism: mean of 8-14
 Psychopathy: mean of 15-21
 Sadism: mean of 22-28
+
+**Citation:** Paulhus, D. L., Buckels, E. E., Trapnell, P. D., & Jones, D. N. (2020). Screening for dark personalities: The Short Dark Tetrad (SD4). *European Journal of Psychological Assessment*. <https://doi.org/10.1027/1015-5759/a000602>
