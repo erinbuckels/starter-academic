@@ -8,15 +8,14 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-**Description:** A 28-item questionnaire to assess the Dark Tetrad of Personality: Subclinical psychopathy, sadism, narcissism, and Machiavellianism.
+**Description:** The SD4 is a 28-item questionnaire to assess the Dark Tetrad of Personality: Subclinical psychopathy, sadism, narcissism, and Machiavellianism. Items can be administered with or without the sub-headings.
 
 **FOUR IDENTITIES QUESTIONNAIRE**
+Rate your agreement with each statement using the below 5-point scale:
 
 | Strongly Disagree | Disagree | Neutral | Agree | Strongly Agree |
 | :----: | :----: | :----: | :----: | :----: |
 | 1 | 2 | 3 | 4 | 5 |
-
-Rate your agreement with each statement using the above 5-point scale:
 
 **Identity 1: “Crafty”**
 1. It’s not wise to let people know your secrets.
@@ -54,7 +53,6 @@ Rate your agreement with each statement using the above 5-point scale:
 6. Just for kicks, I’ve said mean things on social media.
 7. I know how to hurt someone with words alone.
 
-Note. Items can be administered with or without the sub-headings.
 
 **Scoring:** 
 
