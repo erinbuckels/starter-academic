@@ -13,8 +13,8 @@ image:
 **FOUR IDENTITIES QUESTIONNAIRE**
 
 | Strongly Disagree | Disagree | Neutral | Agree | Strongly Agree |
-| ----------------- | -------- | ------- | ----- | -------------- |
-| 1                 | 2        | 3       | 4     | 5              |
+| :----: | :----: | :----: | :----: | :----: |
+| 1 | 2 | 3 | 4 | 5 |
 
 Rate your agreement with each statement using the above 5-point scale:
 
