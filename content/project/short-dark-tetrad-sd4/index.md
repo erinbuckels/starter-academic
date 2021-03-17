@@ -10,9 +10,6 @@ tags:
 
 **Instructions:** Rate your agreement with each statement using a 5-point scale:
 
-| Strongly</br>Disagree | Disagree | Neutral | Agree | Strongly</br>Agree |
-| :----: | :----: | :----: | :----: | :----: |
-| 1 | 2 | 3 | 4 | 5 |
 
 **Identity 1: “Crafty”**
 1. It’s not wise to let people know your secrets.
