@@ -8,8 +8,8 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-<div style="text-align: center; bold">
-**Instructions: Rate your agreement with each statement using a 5-point scale:
+<div style="text-align: center">
+Rate your agreement with each statement using a 5-point scale:
 </div>
 
 | Strongly Disagree | Disagree | Neutral | Agree | Strongly Agree |
