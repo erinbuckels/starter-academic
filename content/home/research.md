@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Dark Tetrad
+    tag: Dark Tetrad
   - name: Other
     tag: Demo
 
