@@ -1,12 +1,9 @@
 ---
 title: Short Dark Tetrad (SD4)
-tag: Dark Tetrad
+tag: DarkTetrad
 draft: false
 featured: true
-image:
-  filename: ""
-  focal_point: Smart
-  preview_only: false
+
 ---
 **Description:** The SD4 is a 28-item self-report questionnaire to assess the Dark Tetrad of personality (Machiavellianism, narcissism, psychopathy, and sadism). Items can be administered with or without the subheadings
 
