@@ -31,7 +31,7 @@ tags:
   - Sadism
   - Trolling
 image:
-  filename: featured.png
+  filename: 
   focal_point: Smart
   preview_only: false
 date: 2019-04-01T00:00:00.000Z
