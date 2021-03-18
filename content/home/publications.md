@@ -13,8 +13,6 @@ content:
 design:
   view: 3
 ---
-Under construction
-
 {{% callout note %}}
 [Search and filter publications](./publication/)
 {{% /callout %}}
