@@ -13,6 +13,7 @@ image:
   focal_point: Smart
   preview_only: false
 date: 2012-01-01T21:42:00.000Z
+url_pdf: "https://www2.psych.ubc.ca/~dpaulhus/research/DEFENSE/downloads/Paulhus&Buckels.2012.pdf"
 ---
 **Citation:**
 
