@@ -28,7 +28,7 @@ abstract: "We report on the development, validation, and utility of a measure
   discussed. "
 draft: false
 featured: false
-categories:
+tags:
   - PCAT
 projects:
   - PCAT
