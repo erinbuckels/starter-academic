@@ -28,8 +28,8 @@ draft: false
 featured: false
 tags:
   - Dark Tetrad
-  - Trolling
   - Sadism
+  - Trolling
 image:
   filename: featured.png
   focal_point: Smart
