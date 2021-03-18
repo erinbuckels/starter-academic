@@ -17,4 +17,4 @@ url_pdf: "https://www2.psych.ubc.ca/~dpaulhus/research/DEFENSE/downloads/Paulhus
 ---
 **Citation:**
 
-Paulhus, D. L., & Buckels, E. (2012). *Classic self-deception revisited.* In S. Vazire & T. D. Wilson (Eds.), *Handbook of self-knowledge* (p. 363–378). The Guilford Press.
+Paulhus, D. L., & Buckels, E. (2012). Classic self-deception revisited. In S. Vazire & T. D. Wilson (Eds.), *Handbook of self-knowledge* (p. 363–378). The Guilford Press.
