@@ -6,7 +6,7 @@ authors:
   - admin
   - Paul D. Trapnell
 doi: 10.1177/1368430212471738
-publication: Group Processes & Intergroup Relations
+publication: _Group Processes & Intergroup Relations_
 abstract: Outgroup dehumanization figures centrally in historical intergroup
   violence, yet little is known about the factors that promote dehumanized
   perceptions of others. Drawing on research highlighting the importance of
