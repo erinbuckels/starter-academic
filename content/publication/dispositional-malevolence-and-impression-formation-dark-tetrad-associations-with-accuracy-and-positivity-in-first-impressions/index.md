@@ -4,9 +4,13 @@ title: "Dispositional malevolence and impression formation: Dark Tetrad
 publication_types:
   - "2"
 authors:
+  - Katherine H. Rogers
+  - Marina T. Le
   - admin
+  - Mikayla Kim
+  - Jeremy C. Biesanz
 doi: 10.1111/jopy.12374
-publication: Journal of Personality
+publication: _Journal of Personality_
 abstract: >-
   Objective: The Dark Tetrad traits (subclinical psychopathy, narcissism,
   Machiavellianism, and everyday sadism) have interpersonal consequences. At
@@ -30,11 +34,14 @@ draft: false
 featured: false
 tags:
   - Dark Tetrad
+  - Sadism
+  - Interpersonal perception
+  - First impressions
 image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2021-03-18T19:39:38.394Z
+date: 2018-12-18T19:39:38.394Z
 ---
 **Citation:**
 
