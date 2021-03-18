@@ -26,7 +26,7 @@ featured: false
 tags:
   - Dark Tetrad
 image:
-  filename: featured.jpg
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2019-04-01T00:00:00Z
