@@ -7,7 +7,7 @@ authors:
   - Daniel N. Jones
   - Delroy L. Paulhus
 doi: 10.1177/0956797613490749
-publication: " Psychological Science"
+publication: "_Psychological Science_"
 abstract: Past research on socially aversive personalities has focused on
   subclinical psychopathy, subclinical narcissism, and Machiavellianism—the
   “Dark Triad” of personality. In the research reported here, we evaluated
@@ -28,6 +28,7 @@ featured: false
 tags:
   - Dark Tetrad
   - Sadism
+url_pdf: "https://www2.psych.ubc.ca/~dpaulhus/research/DARK_TRIAD/ARTICLES/PS.2013.Buckels-Jones-Paulhus.pdf"
 image:
   filename: ""
   focal_point: Smart
