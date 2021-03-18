@@ -26,7 +26,7 @@ featured: false
 tags:
   - Dark Tetrad
 image:
-  filename: pleasure-5905946_1280.png
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2021-03-18T04:34:15.335Z
