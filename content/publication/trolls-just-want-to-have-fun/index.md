@@ -5,8 +5,8 @@ publication_types:
 authors:
   - admin
   - Paul D. Trapnell
-  - "& Delroy L. Paulhus"
-doi: ""
+  - "Delroy L. Paulhus"
+doi: "10.1016/j.paid.2014.01.016"
 publication: "*Personality and Individual Differences*"
 publication_short: ""
 abstract: >
@@ -23,6 +23,7 @@ abstract: >
   debating, was unrelated to sadism. Thus cyber-trolling appears to be an
   Internet manifestation of everyday sadism.
 draft: false
+url_pdf: https://www2.psych.ubc.ca/~dpaulhus/research/DARK_TRIAD/ARTICLES/PAID.2014.with.Buckels-Trapnell.pdf
 featured: true
 image:
   filename: featured.jpg
