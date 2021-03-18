@@ -3,7 +3,7 @@ title: "Individual differences in activation of the parental care motivational
   system: Assessment, prediction, and implications"
 publication_types:
   - "2"
-author_notes:
+authors:
   - admin
   - Alec T. Beall
   - Marlise K. Hofer
