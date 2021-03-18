@@ -2,14 +2,13 @@
 title: "Individual differences in activation of the parental care motivational
   system: An empirical distinction between protection and nurturance"
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Marlise K. Hofer
   - admin
   - Cindel J. M. White
   - Alec T. Beall
   - Mark Schaller
-doi: 10.1177/1948550617728994
 publication: _Social Psychological and Personality Science_
 abstract: "Previous research reveals that individual differences in parental
   caregiving motives have implications (among both parents and nonparents) for a
@@ -27,12 +26,13 @@ abstract: "Previous research reveals that individual differences in parental
   preferences for committed romantic partners, more lenient moral judgments of
   children who violate social norms)."
 draft: false
+url_pdf: uploads/HoferBuckelsWhiteBeallSchaller2018.pdf
+doi: 10.1177/1948550617728994
 featured: false
 tags:
   - PCAT
 projects:
   - PCAT
-url_pdf: uploads/HoferBuckelsWhiteBeallSchaller2018.pdf
 image:
   filename: ""
   focal_point: Smart
