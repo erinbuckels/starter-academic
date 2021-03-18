@@ -8,7 +8,7 @@ authors:
   - Paul D. Trapnell
   - Tamara Andjelovic
   - Delroy L. Paulhus
-doi: 10.1111/jopy.12393
+doi: "10.1111/jopy.12393"
 publication: _Journal of Personality_
 abstract:
   Objective: This research seeks to clarify the association between online trolling and sadistic personality, and to provide evidence that the reward and rationalization processes at work in sadism are likewise manifest in online trolling.
