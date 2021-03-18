@@ -11,7 +11,7 @@ content:
   offset: 0
   order: desc
 design:
-  view: 1
+  view: 3
 ---
 Under construction
 
