@@ -24,6 +24,10 @@ abstract: >
   Internet manifestation of everyday sadism.
 draft: false
 url_pdf: https://www2.psych.ubc.ca/~dpaulhus/research/DARK_TRIAD/ARTICLES/PAID.2014.with.Buckels-Trapnell.pdf
+tags:
+  - Dark Tetrad
+  - Trolling
+  - Sadism
 featured: true
 image:
   filename: featured.jpg
