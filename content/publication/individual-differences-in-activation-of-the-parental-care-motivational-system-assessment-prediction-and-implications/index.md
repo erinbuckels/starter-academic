@@ -5,8 +5,13 @@ publication_types:
   - "2"
 author_notes:
   - admin
+  - Alec T. Beall
+  - Marlise K. Hofer
+  - Eden Y. Lin
+  - Zenan Zhou
+  - Mark Schaller
 doi: 10.1037/pspp0000023
-publication: " Journal of Personality and Social Psychology"
+publication: "_Journal of Personality and Social Psychology_"
 abstract: "We report on the development, validation, and utility of a measure
   assessing individual differences in activation of the parental care
   motivational system: The Parental Care and Tenderness (PCAT) questionnaire.
@@ -27,6 +32,7 @@ categories:
   - PCAT
 projects:
   - PCAT
+url_pdf: /uploads/BuckelsBeallHoferLinZhouSchaller2015.pdf
 image:
   filename: ""
   focal_point: Smart
