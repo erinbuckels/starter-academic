@@ -30,7 +30,7 @@ tags:
   - Trolling
 featured: true
 image:
-  filename: featured.jpg
+  filename: 
   focal_point: Smart
   preview_only: false
 date: 2014-09-01T00:00:00Z
