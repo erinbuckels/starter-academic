@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Delroy L. Paulhus
   - admin
-publication: Handbook of self-knowledge
+publication: _Handbook of self-knowledge_
 draft: false
 featured: false
 image:
