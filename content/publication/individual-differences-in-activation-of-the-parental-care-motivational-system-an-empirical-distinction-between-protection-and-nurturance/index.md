@@ -4,9 +4,13 @@ title: "Individual differences in activation of the parental care motivational
 publication_types:
   - "0"
 authors:
+  - Marlise K. Hofer
   - admin
+  - Cindel J. M. White
+  - Alec T. Beall
+  - Mark Schaller
 doi: 10.1177/1948550617728994
-publication: Social Psychological and Personality Science
+publication: _Social Psychological and Personality Science_
 abstract: "Previous research reveals that individual differences in parental
   caregiving motives have implications (among both parents and nonparents) for a
   wide range of psychological outcomes. Here we report reanalyses of existing
@@ -28,6 +32,7 @@ tags:
   - PCAT
 projects:
   - PCAT
+url_pdf: HoferBuckelsWhiteBeallSchaller2018.pdf
 image:
   filename: ""
   focal_point: Smart
