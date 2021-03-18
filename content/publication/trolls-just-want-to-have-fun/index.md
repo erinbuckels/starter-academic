@@ -28,7 +28,7 @@ tags:
   - Dark Tetrad
   - Sadism
   - Trolling
-featured: true
+featured: false
 image:
   filename: 
   focal_point: Smart
