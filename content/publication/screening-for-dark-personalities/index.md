@@ -1,5 +1,6 @@
 ---
-title: "Screening for Dark Personalities: The Short Dark Tetrad (SD4)"
+title: Screening for dark personalities
+subtitle: The Short Dark Tetrad (SD4)
 publication_types:
   - "2"
 authors:
@@ -7,8 +8,8 @@ authors:
   - admin
   - Paul D. Trapnell
   - Daniel N. Jones
-doi: "10.1027/1015-5759/a000602"
-publication: "*European Journal of Psychological Assessment*."
+doi: 10.1027/1015-5759/a000602
+publication: "*European Journal of Psychological Assessment*"
 abstract: Consensus is emerging that the constellation of dark personalities
   should include the sadistic personality. To build a four-factor measure, we
   modified and extended the Short Dark Triad (SD3) measure to include sadism. A
