@@ -32,7 +32,7 @@ tags:
   - PCAT
 projects:
   - PCAT
-url_pdf: HoferBuckelsWhiteBeallSchaller2018.pdf
+url_pdf: uploads/HoferBuckelsWhiteBeallSchaller2018.pdf
 image:
   filename: ""
   focal_point: Smart
