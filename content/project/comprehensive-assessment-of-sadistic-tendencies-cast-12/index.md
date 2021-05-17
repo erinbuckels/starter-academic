@@ -5,7 +5,6 @@ draft: false
 featured: false
 tags:
   - Dark Personality
-external_link: external
 image:
   filename: ""
   focal_point: Smart
