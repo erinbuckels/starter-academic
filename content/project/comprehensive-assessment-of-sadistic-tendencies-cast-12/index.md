@@ -14,7 +14,7 @@ image:
 
 **Instructions:** Rate your level of agreement or disagreement with each statement using a 5-point scale:
 
-| Strongly</br>Disagree | Disagree | Neither agree<br>nor disagree | Agree | Strongly</br>Agree |
+| Strongly</br>Disagree | Disagree | Neither Agree<br>Nor Disagree | Agree | Strongly</br>Agree |
 | :----: | :----: | :----: | :----: | :----: |
 | 1 | 2 | 3 | 4 | 5 |
 
