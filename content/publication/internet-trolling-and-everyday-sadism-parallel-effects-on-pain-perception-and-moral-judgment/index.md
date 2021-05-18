@@ -17,7 +17,7 @@ abstract: >-
   trolling.
 
 
-  Method: Online respondents (community adults and university students; total N = 1,715) completed self‐report measures of personality and trolling behavior. They subsequently engaged in one of two judgment tasks. In Study 1, respondents viewed stimuli depicting scenes of emotional/physical suffering and provided ratings of (a) perceived pain intensity and (b) pleasure experienced while viewing the photos. In Study 2, the iTroll questionnaire was developed and validated. It was then administered alongside a moral judgment task.
+  Method: Online respondents (community adults and university students; total *N* = 1,715) completed self‐report measures of personality and trolling behavior. They subsequently engaged in one of two judgment tasks. In Study 1, respondents viewed stimuli depicting scenes of emotional/physical suffering and provided ratings of (a) perceived pain intensity and (b) pleasure experienced while viewing the photos. In Study 2, the iTroll questionnaire was developed and validated. It was then administered alongside a moral judgment task.
 
 
   Results: Across both studies, online trolling was strongly associated with a sadistic personality profile. Moreover, sadism and trolling predicted identical patterns of pleasure and harm minimization. The incremental contribution of sadism was sustained even when controlling for broader antisocial tendencies (i.e., the Dark Triad, callous‐unemotionality, and trait aggression).
