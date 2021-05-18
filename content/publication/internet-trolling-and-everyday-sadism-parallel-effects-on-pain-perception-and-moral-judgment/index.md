@@ -39,4 +39,4 @@ date: 2019-04-01T00:00:00.000Z
 ---
 **Citation:**
 
-Buckels, E. E., Trapnell, P. D., Andjelovic, T., & Paulhus, D. L. (2019). Internet trolling and everyday sadism: parallel effects on pain perception and moral judgment. _Journal of Personality_, _87_(2), 328–340. https://doi.org/10.1111/jopy.12393
+Buckels, E. E., Trapnell, P. D., Andjelovic, T., & Paulhus, D. L. (2019). Internet trolling and everyday sadism: Parallel effects on pain perception and moral judgment. _Journal of Personality_, _87_(2), 328–340. https://doi.org/10.1111/jopy.12393
