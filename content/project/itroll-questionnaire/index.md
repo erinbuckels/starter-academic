@@ -35,7 +35,7 @@ image:
 **Scoring:**
 
 Reverse score (5=1, 4=2, 3=3, 2=4, 1=5) the five items denoted with an (R).
-<br>Compute a total iTroll score as the mean of the 12 items after reverse scoring.
+<br>Compute a total score as the mean of the 12 items after reverse scoring.
 
 
 **Citation:** 
