@@ -6,7 +6,6 @@ draft: false
 featured: false
 tags:
   - Parental-Care
-external_link: external
 links: []
 image:
   filename: ""
