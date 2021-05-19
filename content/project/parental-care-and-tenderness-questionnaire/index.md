@@ -1,7 +1,7 @@
 ---
 title: Parental Care and Tenderness Questionnaire
 subtitle: 25-item version
-date: 2021-05-19T04:33:03.242Z
+date: 2021-04
 draft: false
 featured: false
 tags:
