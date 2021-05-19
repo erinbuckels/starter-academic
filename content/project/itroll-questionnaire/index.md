@@ -8,6 +8,8 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+tags:
+  - Trolling
 ---
 **Description:** The iTroll questionnaire is a brief measure of online trolling tendencies. It contains 12 self‐descriptive statements that assess the extent to which a person behaves and identifies as an online troll.
 
