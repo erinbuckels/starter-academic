@@ -1,6 +1,6 @@
 ---
 title: Short Dark Tetrad (SD4)
-date: 2021-05
+date: 2021-01
 draft: false
 featured: true
 tags:
