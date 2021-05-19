@@ -25,7 +25,9 @@ abstract: >-
   Conclusions: Results confirm that online trolling is motivated (at least in part) by sadistic tendencies. Coupled with effective rationalization mechanisms, sadistic pleasure can be consummated in such everyday behaviors as online trolling.
 draft: false
 url_pdf: uploads/Buckels-et-al-2019-Trolling.pdf
-url_custom: itroll-questionnaire
+links:
+ - name: "iTroll Questionnaire"
+   url: "https://www.erinbuckels.com/project/itroll-questionnaire/"
 doi: 10.1111/jopy.12393
 featured: false
 tags:
