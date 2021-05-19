@@ -28,6 +28,8 @@ url_pdf: uploads/Buckels-et-al-2019-Trolling.pdf
 links:
  - name: "iTroll Questionnaire"
    url: "https://www.erinbuckels.com/project/itroll-questionnaire/"
+ - name: "CAST Questionnaire"
+   url: "https://www.erinbuckels.com/project/comprehensive-assessment-of-sadistic-tendencies-cast-12/"
 doi: 10.1111/jopy.12393
 featured: false
 tags:
