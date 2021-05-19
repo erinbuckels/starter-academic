@@ -11,7 +11,7 @@ image:
 tags:
   - Trolling
 ---
-**Description:** The iTroll questionnaire is a brief measure of online trolling tendencies. It contains 12 self-descriptive items covering enjoyment and participation in online trolling, attitudes toward trolling, and troll identity.
+**Description:** The iTroll questionnaire is a self-report measure of online trolling tendencies. It contains 12 items to assess trolling enjoyment, attitudes toward trolling, and troll identity.
 
 **Instructions:** Here are some questions about your attitudes toward online trolling. Please rate your level of agreement or disagreement with each statement using a 5-point scale:
 
