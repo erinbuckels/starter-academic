@@ -8,7 +8,6 @@ authors:
   - Paul D. Trapnell
   - Tamara Andjelovic
   - Delroy L. Paulhus
-doi: 10.1111/jopy.12393
 publication: _Journal of Personality_
 abstract: >-
   Objective: This research seeks to clarify the association between online
@@ -26,14 +25,17 @@ abstract: >-
   Conclusions: Results confirm that online trolling is motivated (at least in part) by sadistic tendencies. Coupled with effective rationalization mechanisms, sadistic pleasure can be consummated in such everyday behaviors as online trolling.
 draft: false
 url_pdf: uploads/Buckels-et-al-2019-Trolling.pdf
-url_project: 'itroll-questionnaire'
+url_project: itroll-questionnaire
+doi: 10.1111/jopy.12393
 featured: false
 tags:
   - Dark Tetrad
   - Sadism
   - Trolling
+projects:
+  - itroll-questionnaire
 image:
-  filename: 
+  filename: null
   focal_point: Smart
   preview_only: false
 date: 2019-04-01T00:00:00.000Z
