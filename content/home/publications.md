@@ -12,6 +12,7 @@ content:
   order: desc
 design:
   view: 3
+  columns: '2'
 ---
 {{% callout note %}}
 [Search and filter publications](./publication/)
