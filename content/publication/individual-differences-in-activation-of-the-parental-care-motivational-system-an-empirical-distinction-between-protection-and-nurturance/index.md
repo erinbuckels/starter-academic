@@ -41,4 +41,4 @@ date: 2018-11-18T20:01:28.759Z
 ---
 **Citation:**
 
-Hofer, M. K., Buckels, E. E., White, C. J. M., Beall, A. T., & Schaller, M. (2018). Individual differences in activation of the parental care motivational system: an empirical distinction between protection and nurturance. *Social Psychological and Personality Science*, *9*(8), 907–916. https://doi.org/10.1177/1948550617728994
+Hofer, M. K., Buckels, E. E., White, C. J. M., Beall, A. T., & Schaller, M. (2018). Individual differences in activation of the parental care motivational system: An empirical distinction between protection and nurturance. _Social Psychological and Personality Science_, _9_(8), 907–916. https://doi.org/10.1177/1948550617728994
