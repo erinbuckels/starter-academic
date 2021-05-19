@@ -41,4 +41,4 @@ date: 2015-03-01T21:15:00.000Z
 ---
 **Citation:**
 
-Buckels, E. E., Beall, A. T., Hofer, M. K., Lin, E. Y., Zhou, Z., & Schaller, M. (2015). Individual differences in activation of the parental care motivational system: assessment, prediction, and implications. *Journal of Personality and Social Psychology*, *108*(3), 497–514. https://doi.org/10.1037/pspp0000023
+Buckels, E. E., Beall, A. T., Hofer, M. K., Lin, E. Y., Zhou, Z., & Schaller, M. (2015). Individual differences in activation of the parental care motivational system: Assessment, prediction, and implications. *Journal of Personality and Social Psychology*, *108*(3), 497–514. https://doi.org/10.1037/pspp0000023
