@@ -72,3 +72,6 @@ Subscales:
 3. Protection = mean of items 4, 7, 9, 12, 15.<br> 
 4. Tenderness-Positive = mean of items 16, 19, 20, 22, 25.<br>
 5. Tenderness-Negative = mean of items 17, 18, 21, 23, 24.
+
+**Citation:**
+Buckels, E. E., Beall, A. T., Hofer, M. K., Lin, E. Y., Zhou, Z., & Schaller, M. (2015). Individual differences in activation of the parental care motivational system: Assessment, prediction, and implications. _Journal of Personality and Social Psychology_, _108_(3), 497–514. https://doi.org/10.1037/pspp0000023
