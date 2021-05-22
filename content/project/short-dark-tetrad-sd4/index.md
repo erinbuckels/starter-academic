@@ -5,8 +5,16 @@ draft: false
 featured: true
 tags:
   - Dark Personality
+  - Measures
+  - SD4
+  - Sadism
+  - Psychopathy
+  - Machiavellianism
+  - Narcissism
 overflow: hidden
-
+links:
+ - name: "Journal Article (PDF)"
+   url: "https://www.erinbuckels.com/uploads/EJPA.2020.on.SD4.pdf"
 ---
 **Description:** The SD4 is a brief (28-item) self-report questionnaire designed to assess the Dark Tetrad of personality: Machiavellianism, narcissism, psychopathy, and sadism. Items can be administered with or without the subheadings.
 
@@ -66,3 +74,5 @@ Sadism: mean of 7 "Mean" items
 **Citation:** 
 
 Paulhus, D. L., Buckels, E. E., Trapnell, P. D., & Jones, D. N. (2020). Screening for dark personalities: The Short Dark Tetrad (SD4). *European Journal of Psychological Assessment*. <https://doi.org/10.1027/1015-5759/a000602>
+
+
