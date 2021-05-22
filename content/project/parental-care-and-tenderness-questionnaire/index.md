@@ -1,6 +1,6 @@
 ---
 title: Parental Care and Tenderness Questionnaire
-subtitle: 25-item version
+subtitle: PCAT (25-item version)
 date: 2021-04
 draft: false
 featured: false
