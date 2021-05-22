@@ -14,7 +14,6 @@ links:
    url: "https://www.erinbuckels.com/uploads/BuckelsBeallHoferLinZhouSchaller2015.pdf"
  - name: "DOI"
    url: "https://doi.org/10.1037/pspp0000023"
-links: []
 image:
   filename: ""
   focal_point: Smart
