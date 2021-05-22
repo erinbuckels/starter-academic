@@ -1,6 +1,6 @@
 ---
 title: Comprehensive Assessment of Sadistic Tendencies (CAST-12)
-date: 2021-05-17T16:52:32.288Z
+date: 2021-04
 draft: false
 featured: false
 tags:
