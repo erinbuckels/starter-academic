@@ -13,7 +13,7 @@ tags:
   - Narcissism
 overflow: hidden
 links:
- - name: "Journal Article (PDF)"
+ - name: "Article (PDF)"
    url: "https://www.erinbuckels.com/uploads/EJPA.2020.on.SD4.pdf"
  - name: "DOI"
    url: "https://doi.org/10.1027/1015-5759/a000602"
