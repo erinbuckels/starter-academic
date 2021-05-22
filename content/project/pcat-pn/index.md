@@ -8,11 +8,11 @@ tags:
   - Parental Care
   - Measures
   - PCAT
-links:
- - name: "Article (PDF)"
-   url: "https://www.erinbuckels.com/uploads/HoferBuckelsWhiteBeallSchaller2018.pdf"
- - name: "DOI"
-   url: "https://doi.org/10.1177/1948550617728994"
+#links:
+# - name: "Article (PDF)"
+#   url: "https://www.erinbuckels.com/uploads/HoferBuckelsWhiteBeallSchaller2018.pdf"
+# - name: "DOI"
+#   url: "https://doi.org/10.1177/1948550617728994"
 ---
 **Description:**
 The PCAT-pn is a 10-item measure of individual differences in the activation of the parental care motivational system. It is suitable for administration with both parents and non-parents. See also: The ([25-item PCAT questionnaire](https://www.erinbuckels.com/project/parental-care-and-tenderness-questionnaire/)), which contains a broader set of subscales: caring, liking, protection, tenderness-positive, and tenderness-negative.
