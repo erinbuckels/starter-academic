@@ -52,7 +52,7 @@ The first part of this questionnaire relates to your personality and personal pr
 
 TENDERNESS describes a "warm, gentle feeling of sympathetic affection." Below are various hypothetical scenarios that may or may not evoke this feeling. Please rate how much TENDERNESS you would feel in each situation. If you are unsure, go with your gut reaction.
 
-| No tenderness<br>at all |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| A lot<br>of tenderness |
+| No tenderness<br>at all |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| A lot<br>of tenderness |
 | ----------------------- | --- | --- | --- | ---------------------- |
 | 1                       | 2   | 3   | 4   | 5                      |
 
