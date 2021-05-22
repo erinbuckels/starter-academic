@@ -14,7 +14,7 @@ image:
   preview_only: false
 ---
 **Description:**
-The PCAT-pn questionnaire is shortform (10-item) measure of individual differences in the activation of the parental care motivational system. It is suitable for administration with both parents and non-parents. See also: The ([25-item PCAT questionnaire](https://www.erinbuckels.com/project/parental-care-and-tenderness-questionnaire/)), which contains a broader set of subscales: caring, liking, protection, tenderness-positive, and tenderness-negative.
+The PCAT-pn is a 10-item measure of individual differences in the activation of the parental care motivational system. It is suitable for administration with both parents and non-parents. See also: The ([25-item PCAT questionnaire](https://www.erinbuckels.com/project/parental-care-and-tenderness-questionnaire/)), which contains a broader set of subscales: caring, liking, protection, tenderness-positive, and tenderness-negative.
 
 **Part A**
 
