@@ -1,17 +1,20 @@
 ---
-title: PCAT-pn
-subtitle: Parental Care and Tenderness Questionnaire (10-item short-form)
+title: Parental Care and Tenderness Questionnaire
+subtitle: PCAT-pn (10-item shortform)
 date: 2021-05-22T20:46:29.018Z
 draft: false
 featured: false
-external_link: external
+tags:
+  - Parental Care
+  - Measures
+  - PCAT
 image:
   filename: ""
   focal_point: Smart
   preview_only: false
 ---
 **Description:**
-The Parental Care and Tenderness (PCAT) questionnaire is a measure of individual differences in the activation of the parental care motivational system. It is suitable for administration with both parents and non-parents. The full version contains 25 items. A 10-item short-form ([PCAT-pn](https://www.erinbuckels.com/project/PCAT-pn)) is also available.
+The PCAN-pn questionnaire is a measure of individual differences in the activation of the parental care motivational system. It is suitable for administration with both parents and non-parents. The PCAT-pn is a 10-item shortform with two subscales (protection and nurturance). See also: The ([25-item PCAT questionnaire](https://www.erinbuckels.com/project/parental-care-and-tenderness-questionnaire/)), which contains a broader set of subscales: caring, liking, protection, tenderness-positive, and tenderness-negative.
 
 **Part A**
 
@@ -50,6 +53,5 @@ Nurturance subscale = mean of items 1, 4, 7, 8, 9, 10.<br>
 
 
 **Citation:**
-
 
 Hofer, M. K., Buckels, E. E., White, C. J. M., Beall, A. T., & Schaller, M. (2018). Individual differences in activation of the parental care motivational system: An empirical distinction between protection and nurturance. _Social Psychological and Personality Science_, _9_(8), 907–916. <https://doi.org/10.1177/1948550617728994>
