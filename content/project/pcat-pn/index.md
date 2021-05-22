@@ -1,6 +1,6 @@
 ---
 title: Parental Care and Tenderness (PCAT-pn)
-subtitle: 10-item shortform
+subtitle: 10-item short form
 date: 2021-05-22T20:46:29.018Z
 draft: false
 featured: false
