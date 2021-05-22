@@ -20,7 +20,7 @@ image:
   preview_only: false
 ---
 **Description:**
-The Parental Care and Tenderness (PCAT) questionnaire is a measure of individual differences in the activation of the parental care motivational system. It is suitable for administration with both parents and non-parents. The full version contains 25 items. A 10-item short-form ([PCAT-pn](https://www.erinbuckels.com/project/PCAT-pn)) is also available.
+The PCAT questionnaire is a measure of individual differences in the activation of the parental care motivational system. It is suitable for administration with both parents and non-parents. The full version contains 25 items. A 10-item short-form ([PCAT-pn](https://www.erinbuckels.com/project/PCAT-pn)) is also available.
 
 **Instructions:**
 
