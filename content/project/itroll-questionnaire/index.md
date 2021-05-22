@@ -3,13 +3,18 @@ title: iTroll Questionnaire
 date: 2021-04
 draft: false
 featured: false
-links: []
+links:
+ - name: "Article (PDF)"
+   url: "https://www.erinbuckels.com/uploads/Buckels-et-al-2019-Trolling.pdf"
+ - name: "DOI"
+   url: "https://doi.org/10.1111/jopy.12393"
 image:
   filename: ""
   focal_point: Smart
   preview_only: false
 tags:
   - Trolling
+  - Measures
 ---
 **Description:** The iTroll questionnaire is a self-report measure of online trolling tendencies. 
 
