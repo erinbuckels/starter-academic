@@ -29,6 +29,7 @@ These measures are presented below.
 
 <hr class="rounded">
 ## PCAT
+
 _Original 25-item version_
 <hr class="rounded">
 
@@ -93,7 +94,9 @@ Buckels, E. E., Beall, A. T., Hofer, M. K., Lin, E. Y., Zhou, Z., & Schaller, M.
 
 <br><br>
 <hr class="rounded">
+
 ## PCAT-pn
+
 _10-item short-form_
 <hr class="rounded">
 
