@@ -22,8 +22,8 @@ image:
 ## Description:
 The PCAT questionnaire is a measure of individual differences in the activation of the parental care motivational system. It is suitable for administration with both parents and non-parents. There are two formats available:
 
-1. The [original PCAT](#pcat): A 25-item measure with 5 subscales (caring, liking, protection, tenderness-positive, tenderness-negative). 
-2. The [PCAT-pn](#pcat-pn): A 10-item short-form with 2 subscales (nurturance and protection). 
+1. The [original PCAT](#pcat): A 25-item measure with five subscales (caring, liking, protection, tenderness-positive, and tenderness-negative). 
+2. The [PCAT-pn](#pcat-pn): A 10-item short-form with two subscales (nurturance and protection). 
 
 These measures are presented below.
 
