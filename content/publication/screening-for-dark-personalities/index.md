@@ -33,7 +33,11 @@ url_pdf: uploads/EJPA.2020.on.SD4.pdf
 featured: true
 tags:
   - Dark Tetrad
-
+  - SD4
+  - Sadism
+  - Psychopathy
+  - Machiavellianism
+  - Narcissism
 links:
  - name: "SD4 Questionnaire"
    url: "https://www.erinbuckels.com/project/short-dark-tetrad-sd4/"
