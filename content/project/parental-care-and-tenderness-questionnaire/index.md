@@ -20,13 +20,17 @@ image:
   preview_only: false
 ---
 **Description:**
-The PCAT questionnaire is 25-item measure of individual differences in the activation of the parental care motivational system. It is suitable for administration with both parents and non-parents. A 10-item short-form ([PCAT-pn](https://www.erinbuckels.com/project/PCAT-pn)) is also available.
+The PCAT questionnaire is a measure of individual differences in the activation of the parental care motivational system. It is suitable for administration with both parents and non-parents. There are two formats available:
 
-**Instructions:**
+1. The [original 25-item PCAT questionnaire](## PCAT (25-item version)) with 5 subscales (caring, liking, protection, tenderness-positive, tenderness-negative). 
+2. The [PCAT-pn questionnaire](## PCAT-pn (10-item short form)): A 10-item short-form with 2 subscales (nurturance and protection). 
+
+
+## PCAT (25-item version)
 
 **Part A**
 
-The first part of this questionnaire relates to your personality and personal preferences. Please rate how much you agree or disagree with the following statements:
+Instructions: The first part of this questionnaire relates to your personality and personal preferences. Please rate how much you agree or disagree with the following statements:
 
 | Strongly</br>Disagree | Disagree | Neutral | Agree | Strongly</br>Agree |
 | --------------------- | -------- | ------- | ----- | ------------------ |
@@ -50,7 +54,7 @@ The first part of this questionnaire relates to your personality and personal pr
 
 **Part B**
 
-TENDERNESS describes a "warm, gentle feeling of sympathetic affection." Below are various hypothetical scenarios that may or may not evoke this feeling. Please rate how much TENDERNESS you would feel in each situation. If you are unsure, go with your gut reaction.
+Instructions: TENDERNESS describes a "warm, gentle feeling of sympathetic affection." Below are various hypothetical scenarios that may or may not evoke this feeling. Please rate how much TENDERNESS you would feel in each situation. If you are unsure, go with your gut reaction.
 
 | No tenderness<br>at all |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| A lot<br>of tenderness |
 | ----------------------- | --- | --- | --- | ---------------------- |
@@ -84,3 +88,47 @@ Subscales:
 Buckels, E. E., Beall, A. T., Hofer, M. K., Lin, E. Y., Zhou, Z., & Schaller, M. (2015). Individual differences in activation of the parental care motivational system: Assessment, prediction, and implications. _Journal of Personality and Social Psychology_, _108_(3), 497–514. https://doi.org/10.1037/pspp0000023
 <br><br>
 [Download (PDF)](https://www.erinbuckels.com/uploads/BuckelsBeallHoferLinZhouSchaller2015.pdf)
+
+
+## PCAT-pn (10-item short form)
+
+**Part A**
+
+Instructions: The first part of this questionnaire relates to your personality and personal preferences. Please rate how much you agree or disagree with the following statements:
+
+| Strongly</br>Disagree | Disagree | Neutral | Agree | Strongly</br>Agree |
+| --------------------- | -------- | ------- | ----- | ------------------ |
+| 1                     | 2        | 3       | 4     | 5                  |
+
+1. When I see infants, I want to hold them.
+2. I would feel compelled to punish anyone who tried to harm a child.
+3. I would hurt anyone who was a threat to a child.
+4. Babies melt my heart.
+5. I would use any means necessary to protect a child, even if I had to hurt others.
+6. I would show no mercy to someone who was a danger to a child.
+
+**Part B**
+
+Instructions: TENDERNESS describes a “warm, gentle feeling of sympathetic affection.” Below are various hypothetical scenarios that may or
+may not evoke this feeling. Please rate how much TENDERNESS you would feel in each situation. If you are unsure, go with your gut reaction.
+
+| No tenderness<br>at all |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| A lot<br>of tenderness |
+| ----------------------- | --- | --- | --- | ---------------------- |
+| 1                       | 2   | 3   | 4   | 5                      |
+
+7. You hear a young child trip and fall, and begin to cry.
+8. You watch as a toddler takes their first step and tumbles gently back down.
+9. You make a baby laugh over and over again by making silly faces. 
+10. You see that a baby is sick.
+
+**Scoring:**
+
+PCAT-pn total = mean of all items.<br>
+Protection subscale = mean of items 2, 3, 5, 6.<br>
+Nurturance subscale = mean of items 1, 4, 7, 8, 9, 10.<br>
+
+**Citation:**
+
+Hofer, M. K., Buckels, E. E., White, C. J. M., Beall, A. T., & Schaller, M. (2018). Individual differences in activation of the parental care motivational system: An empirical distinction between protection and nurturance. _Social Psychological and Personality Science_, _9_(8), 907–916. <https://doi.org/10.1177/1948550617728994>
+<br><br>
+[Download (PDF)](https://www.erinbuckels.com/uploads/HoferBuckelsWhiteBeallSchaller2018.pdf)
