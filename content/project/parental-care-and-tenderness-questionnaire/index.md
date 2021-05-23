@@ -24,7 +24,8 @@ The PCAT questionnaire is a measure of individual differences in the activation 
 
 1. The [original PCAT](#pcat): A 25-item questionnaire with 5 subscales (caring, liking, protection, tenderness-positive, tenderness-negative). 
 2. The [PCAT-pn](#pcat-pn): A 10-item short-form with 2 subscales (nurturance and protection). 
-<br><br>These measures are presented below.
+
+These measures are presented below.
 <hr class="rounded">
 
 ## PCAT
