@@ -52,5 +52,5 @@ Nurturance subscale = mean of items 1, 4, 7, 8, 9, 10.<br>
 **Citation:**
 
 Hofer, M. K., Buckels, E. E., White, C. J. M., Beall, A. T., & Schaller, M. (2018). Individual differences in activation of the parental care motivational system: An empirical distinction between protection and nurturance. _Social Psychological and Personality Science_, _9_(8), 907–916. <https://doi.org/10.1177/1948550617728994>
-<br>
-[Download Article (PDF)](https://www.erinbuckels.com/uploads/HoferBuckelsWhiteBeallSchaller2018.pdf)
+<br><br>
+[Download (PDF)](https://www.erinbuckels.com/uploads/HoferBuckelsWhiteBeallSchaller2018.pdf)
