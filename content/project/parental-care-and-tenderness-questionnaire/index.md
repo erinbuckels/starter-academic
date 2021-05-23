@@ -90,7 +90,7 @@ Buckels, E. E., Beall, A. T., Hofer, M. K., Lin, E. Y., Zhou, Z., & Schaller, M.
 [Download (PDF)](https://www.erinbuckels.com/uploads/BuckelsBeallHoferLinZhouSchaller2015.pdf)
 
 
-## PCAT-pn (10-item short form)
+## PCAT-pn
 
 **Part A**
 
