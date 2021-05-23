@@ -25,10 +25,11 @@ The PCAT questionnaire is a measure of individual differences in the activation 
 1. The [original 25-item PCAT questionnaire](#PCAT) with 5 subscales (caring, liking, protection, tenderness-positive, tenderness-negative). 
 2. The [PCAT-pn questionnaire](#PCAT-pn): A 10-item short-form with 2 subscales (nurturance and protection). 
 
-{{< toc >}}
+<br><br>
+
 
 ## PCAT
-<br>Original 25-item version<br><br>
+_Original 25-item version_<br><br>
 **Part A**
 
 Instructions: The first part of this questionnaire relates to your personality and personal preferences. Please rate how much you agree or disagree with the following statements:
@@ -90,9 +91,9 @@ Buckels, E. E., Beall, A. T., Hofer, M. K., Lin, E. Y., Zhou, Z., & Schaller, M.
 <br><br>
 [Download (PDF)](https://www.erinbuckels.com/uploads/BuckelsBeallHoferLinZhouSchaller2015.pdf)
 
-
+<br><br><br><br>
 ## PCAT-pn
-<br>10-item short-form<br><br>
+_10-item short-form_<br><br>
 
 **Part A**
 
