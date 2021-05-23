@@ -27,7 +27,7 @@ The PCAT questionnaire is a measure of individual differences in the activation 
 
 <hr class="rounded">
 
-## PCAT
+# PCAT
 _Original 25-item version_<br><br>
 ### Part A - Instructions
 The first part of this questionnaire relates to your personality and personal preferences. Please rate how much you agree or disagree with the following statements:
@@ -91,7 +91,7 @@ Buckels, E. E., Beall, A. T., Hofer, M. K., Lin, E. Y., Zhou, Z., & Schaller, M.
 <br><br>
 <hr class="rounded">
 
-## PCAT-pn
+# PCAT-pn
 
 _10-item short-form_
 <br><br>
