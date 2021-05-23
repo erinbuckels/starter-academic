@@ -28,6 +28,7 @@ The PCAT questionnaire is a measure of individual differences in the activation 
 These measures are presented below.
 
 <hr class="rounded">
+
 ## PCAT
 
 _Original 25-item version_
