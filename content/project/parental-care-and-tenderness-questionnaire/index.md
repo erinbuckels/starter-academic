@@ -83,7 +83,7 @@ Subscales:
 4. Tenderness-Positive = mean of items 16, 19, 20, 22, 25.<br>
 5. Tenderness-Negative = mean of items 17, 18, 21, 23, 24.
 
-###Citation:
+### Citation:
 Buckels, E. E., Beall, A. T., Hofer, M. K., Lin, E. Y., Zhou, Z., & Schaller, M. (2015). Individual differences in activation of the parental care motivational system: Assessment, prediction, and implications. _Journal of Personality and Social Psychology_, _108_(3), 497–514. https://doi.org/10.1037/pspp0000023
 <br><br>
 [Download (PDF)](https://www.erinbuckels.com/uploads/BuckelsBeallHoferLinZhouSchaller2015.pdf)
@@ -122,13 +122,13 @@ may not evoke this feeling. Please rate how much TENDERNESS you would feel in ea
 9. You make a baby laugh over and over again by making silly faces. 
 10. You see that a baby is sick.
 
-###Scoring:
+### Scoring:
 
 PCAT-pn total = mean of all items.<br>
 Protection subscale = mean of items 2, 3, 5, 6.<br>
 Nurturance subscale = mean of items 1, 4, 7, 8, 9, 10.<br>
 
-###Citation:
+### Citation:
 
 Hofer, M. K., Buckels, E. E., White, C. J. M., Beall, A. T., & Schaller, M. (2018). Individual differences in activation of the parental care motivational system: An empirical distinction between protection and nurturance. _Social Psychological and Personality Science_, _9_(8), 907–916. <https://doi.org/10.1177/1948550617728994>
 <br><br>
