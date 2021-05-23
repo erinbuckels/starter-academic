@@ -70,7 +70,7 @@ TENDERNESS describes a "warm, gentle feeling of sympathetic affection." Below ar
 24. You see a child slip and fall onto the pavement.
 25. You see a father tossing his giggling baby up into the air as a game.
 
-###Scoring:
+### Scoring:
 
 Reverse score (5=1, 4=2, 3=3, 2=4, 1=5) the five items denoted with an (R).<br>
 PCAT total = the mean of all items after reverse scoring.
@@ -92,6 +92,7 @@ Buckels, E. E., Beall, A. T., Hofer, M. K., Lin, E. Y., Zhou, Z., & Schaller, M.
 <hr class="rounded">
 
 ## PCAT-pn
+
 _10-item short-form_
 <br><br>
 
