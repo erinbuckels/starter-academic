@@ -31,7 +31,7 @@ These measures are presented below.
 ## PCAT
 
 _Original 25-item version_<br><br>
-
+<hr class="rounded">
 ### Part A - Instructions
 The first part of this questionnaire relates to your personality and personal preferences. Please rate how much you agree or disagree with the following statements:
 
@@ -97,7 +97,8 @@ Buckels, E. E., Beall, A. T., Hofer, M. K., Lin, E. Y., Zhou, Z., & Schaller, M.
 ## PCAT-pn
 
 _10-item short-form_
-<br><br>
+<hr class="rounded">
+<br>
 
 ### Part A - Instructions
 The first part of this questionnaire relates to your personality and personal preferences. Please rate how much you agree or disagree with the following statements:
