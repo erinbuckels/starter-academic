@@ -21,7 +21,7 @@ image:
 ---
 {{< toc >}}
 
-## Description:
+## Description
 The PCAT questionnaire is a measure of individual differences in the activation of the parental care motivational system. It is suitable for administration with both parents and non-parents. There are two formats available:
 
 1. The [original 25-item PCAT questionnaire](##PCAT) with 5 subscales (caring, liking, protection, tenderness-positive, tenderness-negative). 
@@ -33,7 +33,7 @@ The PCAT questionnaire is a measure of individual differences in the activation 
 
 _Original 25-item version_<br><br>
 
-### Part A - Instructions:
+### Part A - Instructions
 The first part of this questionnaire relates to your personality and personal preferences. Please rate how much you agree or disagree with the following statements:
 
 | Strongly</br>Disagree | Disagree | Neutral | Agree | Strongly</br>Agree |
@@ -56,7 +56,7 @@ The first part of this questionnaire relates to your personality and personal pr
 14. If I could, I would hire a nanny to take care of my children. (R)
 15. I would use any means necessary to protect a child, even if I had to hurt others.
 
-### Part B - Instructions:
+### Part B - Instructions
 TENDERNESS describes a "warm, gentle feeling of sympathetic affection." Below are various hypothetical scenarios that may or may not evoke this feeling. Please rate how much TENDERNESS you would feel in each situation. If you are unsure, go with your gut reaction.
 
 | No tenderness<br>at all |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| A lot<br>of tenderness |
@@ -74,7 +74,7 @@ TENDERNESS describes a "warm, gentle feeling of sympathetic affection." Below ar
 24. You see a child slip and fall onto the pavement.
 25. You see a father tossing his giggling baby up into the air as a game.
 
-### Scoring:
+### Scoring
 
 Reverse score (5=1, 4=2, 3=3, 2=4, 1=5) the five items denoted with an (R).<br>
 PCAT total = the mean of all items after reverse scoring.
@@ -87,7 +87,7 @@ Subscales:
 4. Tenderness-Positive = mean of items 16, 19, 20, 22, 25.<br>
 5. Tenderness-Negative = mean of items 17, 18, 21, 23, 24.
 
-### Citation:
+### Citation
 Buckels, E. E., Beall, A. T., Hofer, M. K., Lin, E. Y., Zhou, Z., & Schaller, M. (2015). Individual differences in activation of the parental care motivational system: Assessment, prediction, and implications. _Journal of Personality and Social Psychology_, _108_(3), 497–514. https://doi.org/10.1037/pspp0000023
 <br><br>
 [Download (PDF)](https://www.erinbuckels.com/uploads/BuckelsBeallHoferLinZhouSchaller2015.pdf)
@@ -127,13 +127,13 @@ may not evoke this feeling. Please rate how much TENDERNESS you would feel in ea
 9. You make a baby laugh over and over again by making silly faces. 
 10. You see that a baby is sick.
 
-### Scoring:
+### Scoring
 
 PCAT-pn total = mean of all items.<br>
 Protection subscale = mean of items 2, 3, 5, 6.<br>
 Nurturance subscale = mean of items 1, 4, 7, 8, 9, 10.<br>
 
-### Citation:
+### Citation
 
 Hofer, M. K., Buckels, E. E., White, C. J. M., Beall, A. T., & Schaller, M. (2018). Individual differences in activation of the parental care motivational system: An empirical distinction between protection and nurturance. _Social Psychological and Personality Science_, _9_(8), 907–916. <https://doi.org/10.1177/1948550617728994>
 <br><br>
