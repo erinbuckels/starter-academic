@@ -15,7 +15,7 @@ image:
 ## Description:
 The CAST-12 is a brief (12-item) measure of sadistic personality. It contains subscales for three distinct variants: Direct verbal sadism, direct physical sadism, and vicarious sadism.
 
-## Instructions:
+## Instructions and Items:
 Rate your level of agreement or disagreement with each statement using a 5-point scale:
 
 | Strongly</br>Disagree | Disagree | Neither Agree<br>Nor Disagree | Agree | Strongly</br>Agree |
