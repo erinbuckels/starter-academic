@@ -8,17 +8,15 @@ featured: false
 #   url: "https://www.erinbuckels.com/uploads/Buckels-et-al-2019-Trolling.pdf"
 # - name: "DOI"
 #   url: "https://doi.org/10.1111/jopy.12393"
-image:
-  filename: ""
-  focal_point: Smart
-  preview_only: false
 tags:
   - Trolling
   - Measures
 ---
-**Description:** The iTroll questionnaire is a self-report measure of online trolling tendencies. 
+## Description:
+The iTroll questionnaire is a self-report measure of online trolling tendencies. 
 
-**Instructions:** Here are some questions about your attitudes toward online trolling. Please rate your level of agreement or disagreement with each statement using a 5-point scale:
+## Instructions:
+Here are some questions about your attitudes toward online trolling. Please rate your level of agreement or disagreement with each statement using a 5-point scale:
 
 | Strongly</br>Disagree | Disagree | Unsure | Agree | Strongly</br>Agree |
 | :----: | :----: | :----: | :----: | :----: |
@@ -39,13 +37,13 @@ tags:
 12.	I identify with trolling culture.
 
 
-**Scoring:**
+## Scoring:
 
 Reverse score (5=1, 4=2, 3=3, 2=4, 1=5) the five items denoted with an (R).
 <br>Compute a total score as the mean of the 12 items after reverse scoring.
 
 
-**Citation:** 
+## Citation:
 
 Buckels, E. E., Trapnell, P. D., Andjelovic, T., & Paulhus, D. L. (2019). Internet trolling and everyday sadism: Parallel effects on pain perception and moral judgment. *Journal of Personality*, *87*(2), 328–340. https://doi.org/10.1111/jopy.12393
 <br><br>
