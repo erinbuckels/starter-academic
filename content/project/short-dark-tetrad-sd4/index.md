@@ -19,6 +19,7 @@ tags:
 ---
 The SD4 is a brief (28-item) self-report questionnaire designed to assess the Dark Tetrad of personality: Machiavellianism, narcissism, psychopathy, and sadism. Items can be administered with or without the subheadings.
 
+
 ## Instructions
 Rate your agreement with each statement using a 5-point scale:
 
@@ -48,8 +49,7 @@ Rate your agreement with each statement using a 5-point scale:
 **Identity 3: “Wild”**
 1. People often say I’m out of control.
 2. I tend to fight against authorities and their rules.
-3. I’ve been in more fights than most people of my age and 
-gender.
+3. I’ve been in more fights than most people of my age and gender.
 5. I tend to dive in, then ask questions later.
 6. I’ve been in trouble with the law.
 7. I sometimes get into dangerous situations.
