@@ -17,10 +17,9 @@ tags:
 # - name: "DOI"
 #   url: "https://doi.org/10.1027/1015-5759/a000602"
 ---
-## Description:
 The SD4 is a brief (28-item) self-report questionnaire designed to assess the Dark Tetrad of personality: Machiavellianism, narcissism, psychopathy, and sadism. Items can be administered with or without the subheadings.
 
-## Instructions:
+## Instructions
 Rate your agreement with each statement using a 5-point scale:
 
 | Strongly</br>Disagree | Disagree | Neutral | Agree | Strongly</br>Agree |
@@ -66,14 +65,14 @@ gender.
 7. I know how to hurt someone with words alone.
 
 
-## Scoring:
+## Scoring
 
 Machiavellianism: mean of 7 "Crafty” items</br>
 Narcissism: mean of 7 "Special" items</br>
 Psychopathy: mean of 7 "Wild" items</br>
 Sadism: mean of 7 "Mean" items
 
-## Citation:
+## Citation
 
 Paulhus, D. L., Buckels, E. E., Trapnell, P. D., & Jones, D. N. (2020). Screening for dark personalities: The Short Dark Tetrad (SD4). *European Journal of Psychological Assessment*. <https://doi.org/10.1027/1015-5759/a000602>
 <br><br>
