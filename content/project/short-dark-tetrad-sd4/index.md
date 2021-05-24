@@ -11,7 +11,6 @@ tags:
   - Psychopathy
   - Machiavellianism
   - Narcissism
-overflow-x: hidden
 #links:
 # - name: "Article (PDF)"
 #   url: "https://www.erinbuckels.com/uploads/EJPA.2020.on.SD4.pdf"
