@@ -5,14 +5,18 @@ draft: false
 featured: false
 tags:
   - Dark Personality
+  - Sadism
+  - Measures
 image:
   filename: ""
   focal_point: Smart
   preview_only: false
 ---
-**Description:** The CAST-12 is a brief (12-item) measure of sadistic personality. It contains subscales for three distinct variants: Direct verbal sadism, direct physical sadism, and vicarious sadism.
+## Description:
+The CAST-12 is a brief (12-item) measure of sadistic personality. It contains subscales for three distinct variants: Direct verbal sadism, direct physical sadism, and vicarious sadism.
 
-**Instructions:** Rate your level of agreement or disagreement with each statement using a 5-point scale:
+## Instructions:
+Rate your level of agreement or disagreement with each statement using a 5-point scale:
 
 | Strongly</br>Disagree | Disagree | Neither Agree<br>Nor Disagree | Agree | Strongly</br>Agree |
 | :----: | :----: | :----: | :----: | :----: |
@@ -32,7 +36,7 @@ image:
 11. I have the right to push certain people around.
 12. I have dominated others using fear. 
 
-**Scoring:**
+## Scoring:
 
 CAST-12 total (α = .87) = mean of items 1–12. <br>
 Direct verbal sadism (α = .77) = mean of items 1–4.<br>
@@ -41,6 +45,6 @@ Direct physical sadism (α = .79) = mean of items 9–12. <br>
 
 *Note.* Alphas were obtained using data collected from a large undergraduate sample (*N* = 1134).
 
-**Citation:** 
+## Citation:
 
 Buckels, E. E. (2021). Multifaceted assessment of sadistic tendencies: The VAST and CAST. In P. K. Jonason (Ed.), *Shining light on the dark side of personality: Measurement properties and theoretical advances.* Hogrefe.
