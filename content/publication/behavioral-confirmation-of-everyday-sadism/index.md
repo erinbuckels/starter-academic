@@ -37,4 +37,4 @@ date: 2013-11-01T20:29:00.000Z
 ---
 **Citation:**
 
-Buckels, E. E., Jones, D. N., & Paulhus, D. L. (2013). Behavioral confirmation of everyday sadism. *Psychological Science*, *24*(11), 2201–9. https://doi.org/10.1177/0956797613490749
+Buckels, E. E., Jones, D. N., & Paulhus, D. L. (2013). Behavioral confirmation of everyday sadism. *Psychological Science*, *24*(11), 2201–2209. https://doi.org/10.1177/0956797613490749
