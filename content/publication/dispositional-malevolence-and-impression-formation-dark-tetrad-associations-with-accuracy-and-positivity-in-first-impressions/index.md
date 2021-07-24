@@ -29,7 +29,7 @@ abstract: >-
   Results: Dark Tetrad traits were associated with being viewed and viewing others less distinctively accurately and more negatively.
 
 
-  Conclusions: Interpersonal perceptions that included an individual scoring highly on one of the Dark Tetrad traits differed in important ways from interactions among individuals with more benevolent personalities. Notably, despite the similarities between the Dark Tetrad, traits had unique associations with interpersonal perceptions.
+  Conclusions: Interpersonal perceptions that included an individual scoring highly on one of the Dark Tetrad traits differed in important ways from interactions among individuals with more benevolent personalities. Notably, despite the similarities between the Dark Tetrad, these traits had unique associations with interpersonal perceptions.
 draft: false
 featured: false
 tags:
@@ -45,4 +45,4 @@ date: 2018-12-18T19:39:38.394Z
 ---
 **Citation:**
 
-Rogers, K. H., Le, M. T., Buckels, E. E., Kim, M., & Biesanz, J. C. (2018). Dispositional malevolence and impression formation: dark tetrad associations with accuracy and positivity in first impressions. *Journal of Personality*, *86*(6), 1050–1064. https://doi.org/10.1111/jopy.12374
+Rogers, K. H., Le, M. T., Buckels, E. E., Kim, M., & Biesanz, J. C. (2018). Dispositional malevolence and impression formation: Dark tetrad associations with accuracy and positivity in first impressions. *Journal of Personality*, *86*(6), 1050–1064. https://doi.org/10.1111/jopy.12374
