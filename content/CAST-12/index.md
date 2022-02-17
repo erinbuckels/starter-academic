@@ -17,10 +17,13 @@ The CAST-12 is a brief (12-item) measure of sadistic personality. It contains su
 ## Instructions
 Rate your level of agreement or disagreement with each statement using a 5-point scale:
 
-| Strongly</br>Disagree | Disagree | Neither Agree<br>Nor Disagree | Agree | Strongly</br>Agree |
-| :----: | :----: | :----: | :----: | :----: |
-| 1 | 2 | 3 | 4 | 5 |
+1 = Strongly Disagree<br>
+2 = Disagree<br>
+3 = Neither Agree Nor Disagree<br>
+4 = Agree<br>
+5 = Strongly Agree
 
+## Items
 
 1. I was purposely mean to some people in high school.
 2. I enjoy making jokes at the expense of others. 
