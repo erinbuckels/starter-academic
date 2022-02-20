@@ -3,10 +3,6 @@ title: Comprehensive Assessment of Sadistic Tendencies (CAST-12)
 date: 2021-04
 draft: false
 featured: false
-tags:
-  - Dark Personality
-  - Sadism
-  - Measures
 image:
   filename: ""
   focal_point: Smart
