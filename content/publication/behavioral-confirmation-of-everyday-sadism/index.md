@@ -28,7 +28,6 @@ featured: false
 tags:
   - Dark Tetrad
   - Sadism
-url_pdf: "https://www2.psych.ubc.ca/~dpaulhus/research/DARK_TRIAD/ARTICLES/PS.2013.Buckels-Jones-Paulhus.pdf"
 image:
   filename: ""
   focal_point: Smart
