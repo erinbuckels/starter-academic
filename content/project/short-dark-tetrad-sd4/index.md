@@ -28,6 +28,8 @@ Rate your level of agreement or disagreement with each statement using a 5-point
 4 = Agree<br>
 5 = Strongly Agree
 
+## Items
+
 **Identity 1: “Crafty”**
 1. It’s not wise to let people know your secrets.
 2. Whatever it takes, you must get the important people on your side.
