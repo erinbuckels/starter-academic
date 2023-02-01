@@ -3,6 +3,9 @@ title: Comprehensive Assessment of Sadistic Tendencies (CAST-12)
 date: 2021-04
 draft: false
 featured: false
+#links:
+# - name: "Article (PDF)"
+#   url: "https://www.erinbuckels.com/uploads/Buckels.2023.VAST.CAST.Chapter.pdf"
 image:
   filename: ""
   focal_point: Smart
@@ -45,4 +48,4 @@ Direct physical sadism (α = .79) = mean of items 9–12. <br>
 
 ## Citation
 
-Buckels, E. E. (2022). Multifaceted assessment of sadistic tendencies. In P. K. Jonason (Ed.), *Shining light on the dark side of personality: Measurement properties and theoretical advances.* Hogrefe.
+Buckels, E. E. (2023). Multifaceted assessment of sadistic tendencies. In P. K. Jonason (Ed.), *Shining light on the dark side of personality: Measurement properties and theoretical advances* (pp. 194–204). Hogrefe.
