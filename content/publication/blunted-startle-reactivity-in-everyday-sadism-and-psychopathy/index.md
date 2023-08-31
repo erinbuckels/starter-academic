@@ -36,3 +36,7 @@ image:
   preview_only: false
 date: 2023-08-31T00:15:52.721Z
 ---
+**Citation:**
+
+Buckels, E. E., Williams, D. A., Trapnell, P. D., Kermani Koosheh, S., Javra, O. M., & Svenne, S. C. (2023). Blunted startle reactivity in everyday sadism and psychopathy. *Scientific Reports*, *13*, 14216. <https://doi.org/10.1038/s41598-023-41043-2>
+<br><br>[Download (PDF)](https://www.nature.com/articles/s41598-023-41043-2.pdf)
