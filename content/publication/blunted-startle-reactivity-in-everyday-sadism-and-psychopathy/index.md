@@ -1,3 +1,4 @@
+---
 title: Blunted startle reactivity in everyday sadism and psychopathy
 publication_types:
   - "2"
@@ -9,7 +10,7 @@ authors:
   - Owen M. Javra
   - Sasha C. Svenne
 doi: 10.1038/s41598-023-41043-2
-publication: *Scientific Reports*
+publication: <i>Scientific Reports</i>
 abstract: Two studies examined the amplitude of the startle response as a
   function of the Dark Tetrad of personality (narcissism, Machiavellianism,
   psychopathy, and sadism). We measured electromyographic activity of the
@@ -28,7 +29,6 @@ abstract: Two studies examined the amplitude of the startle response as a
   acoustic startle in general), whereas psychopathy and sadism are
   preferentially associated with reduced ASP.
 draft: false
-url_pdf: https://www.nature.com/articles/s41598-023-41043-2.pdf 
 featured: false
 image:
   filename: ""
