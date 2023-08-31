@@ -1,4 +1,3 @@
----
 title: Blunted startle reactivity in everyday sadism and psychopathy
 publication_types:
   - "2"
