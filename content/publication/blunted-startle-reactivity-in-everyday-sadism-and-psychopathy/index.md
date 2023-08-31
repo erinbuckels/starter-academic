@@ -29,6 +29,7 @@ abstract: Two studies examined the amplitude of the startle response as a
   acoustic startle in general), whereas psychopathy and sadism are
   preferentially associated with reduced ASP.
 draft: false
+url_pdf: https://www.nature.com/articles/s41598-023-41043-2.pdf
 featured: false
 image:
   filename: ""
