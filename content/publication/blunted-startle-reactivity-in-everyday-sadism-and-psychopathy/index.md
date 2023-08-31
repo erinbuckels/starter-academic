@@ -10,7 +10,7 @@ authors:
   - Owen M. Javra
   - Sasha C. Svenne
 doi: 10.1038/s41598-023-41043-2
-publication: Scientific Reports
+publication: <i>Scientific Reports</i>
 abstract: Two studies examined the amplitude of the startle response as a
   function of the Dark Tetrad of personality (narcissism, Machiavellianism,
   psychopathy, and sadism). We measured electromyographic activity of the
