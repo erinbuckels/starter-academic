@@ -10,6 +10,7 @@ authors:
   - Mikayla Kim
   - Jeremy C. Biesanz
 doi: 10.1111/jopy.12374
+url_pdf: uploads/Rogers et al. 2018 Dark Tetrad and Impression Formation.pdf
 publication: _Journal of Personality_
 abstract: >-
   Objective: The Dark Tetrad traits (subclinical psychopathy, narcissism,
