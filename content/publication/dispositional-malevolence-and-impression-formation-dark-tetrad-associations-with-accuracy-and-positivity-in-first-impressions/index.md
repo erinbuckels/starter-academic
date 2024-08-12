@@ -10,7 +10,6 @@ authors:
   - Mikayla Kim
   - Jeremy C. Biesanz
 doi: 10.1111/jopy.12374
-url_pdf: uploads/Rogers et al. 2018 Dark Tetrad and Impression Formation.pdf
 publication: _Journal of Personality_
 abstract: >-
   Objective: The Dark Tetrad traits (subclinical psychopathy, narcissism,
@@ -32,6 +31,7 @@ abstract: >-
 
   Conclusions: Interpersonal perceptions that included an individual scoring highly on one of the Dark Tetrad traits differed in important ways from interactions among individuals with more benevolent personalities. Notably, despite the similarities between the Dark Tetrad, these traits had unique associations with interpersonal perceptions.
 draft: false
+url_pdf: uploads/Rogers et al. 2018 Dark Tetrad and Impression Formation.pdf
 featured: false
 tags:
   - Dark Tetrad
