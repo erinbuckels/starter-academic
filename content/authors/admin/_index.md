@@ -1,6 +1,6 @@
 ---
 title: Erin E. Buckels
-role: Assistant Professor of Psychology
+role: Associate Professor of Psychology
 bio: ""
 interests:
   - Dark personality traits
@@ -41,4 +41,4 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Dr. Erin Buckels is an Assistant Professor of Psychology (Social-Personality area).  As the Principal Investigator of the **Dark Personality Research Lab** at the University of Winnipeg, Dr. Buckels uses a combination of survey and experimental methods to explore the psychological underpinnings of human cruelty.  Much of her research centers on the Dark Tetrad of personality: subclinical sadism, psychopathy, narcissism, and Machiavellianism. Her current projects are supported by the [Social Sciences and Humanities Research Council (SSHRC)](https://www.sshrc-crsh.gc.ca/). 
+Dr. Erin Buckels is an Associate Professor of Psychology (Social-Personality area).  As the Principal Investigator of the **Dark Personality Research Lab** at the University of Winnipeg, Dr. Buckels uses a combination of survey and experimental methods to explore the psychological underpinnings of human cruelty.  Her research centers on the Dark Tetrad of personality: subclinical sadism, psychopathy, narcissism, and Machiavellianism. Her current projects are supported by the [Social Sciences and Humanities Research Council (SSHRC)](https://www.sshrc-crsh.gc.ca/). 
