@@ -7,9 +7,7 @@ interests:
   - Everyday sadism
   - Cyber-psychology
   - Personality assessment
-teaching:
-  - PSYC-4300 Topics in Personality Psychology
-  - PSYC-2300 Personality Psychology
+
 social:
   - icon: envelope
     icon_pack: fas
@@ -26,6 +24,10 @@ social:
   - icon: osf
     icon_pack: ai
     link: https://osf.io/q8z9x
+teaching:
+  - course: PhD in Psychology (Social-Personality Area)
+  - institution: The University of British Columbia
+  - year: 2018
 organizations:
   - name: University of Winnipeg
     url: https://www.uwinnipeg.ca/
