@@ -26,18 +26,7 @@ social:
 organizations:
   - name: University of Winnipeg
     url: https://www.uwinnipeg.ca/
-education:
-  courses:
-    - course: PhD in Social-Personality Psychology
-      institution: University of British Columbia
-      year: 2018
-    - course: MA in Social-Personality Psychology
-      institution: University of British Columbia
-      year: 2012
-    - course: BA (Hons.) in Psychology
-      institution: University of Winnipeg
-      year: 2009
-email: ""
+email: "e.buckels@uwinnipeg.ca"
 superuser: true
 highlight_name: false
 ---
