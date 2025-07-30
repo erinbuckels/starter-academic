@@ -2,11 +2,14 @@
 title: Erin E. Buckels
 role: Associate Professor of Psychology
 bio: ""
-Research Interests:
+interests:
   - Dark personality traits
   - Everyday sadism
   - Cyber-psychology
   - Personality assessment
+teaching:
+  - PSYC-4300 Topics in Personality Psychology
+  - PSYC-2300 Personality Psychology
 social:
   - icon: envelope
     icon_pack: fas
@@ -26,9 +29,6 @@ social:
 organizations:
   - name: University of Winnipeg
     url: https://www.uwinnipeg.ca/
-teaching:
-  - PSYC-4300 Topics in Personality Psychology
-  - PSYC-2300 Personality Psychology
 email: "e.buckels@uwinnipeg.ca"
 superuser: true
 highlight_name: false
