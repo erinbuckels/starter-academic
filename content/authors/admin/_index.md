@@ -25,7 +25,7 @@ social:
     link: https://osf.io/q8z9x
 education:
   courses:
-  - course: PhD in Psychology (social-personality area)
+  - course: PhD in Psychology
     institution: The University of British Columbia
     year: 2018
 organizations:
