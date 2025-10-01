@@ -74,7 +74,7 @@ Narcissism: mean of 7 "Special" items</br>
 Psychopathy: mean of 7 "Wild" items</br>
 Sadism: mean of 7 "Mean" items
 
-## Citation
+## Reference
 
 Paulhus, D. L., Buckels, E. E., Trapnell, P. D., & Jones, D. N. (2021). Screening for dark personalities: The Short Dark Tetrad (SD4). _European Journal of Psychological Assessment_, _37_(3), 208–222. <https://doi.org/10.1027/1015-5759/a000602>
 <br><br>
